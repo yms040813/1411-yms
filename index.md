@@ -284,7 +284,8 @@ const는 변수 재선언, 변수 재할당 모두 불가능하다.
     //Uncaught TypeError: Assignment to constant 
     variable.
 
-호이스팅
+# 호이스팅
+
 호이스팅(Hoisting)이란, var 선언문이나 function 선언문 등을 해당 스코프의 선두로 옮긴 것처럼 동작하는 특성을 말한다.
 
 자바스크립트는 ES6에서 도입된 let, const를 포함하여 모든 선언(var, let, const, function, function*, class)을 호이스팅한다.
@@ -334,7 +335,7 @@ console.log(foo); // 1
 
 
 
-DOM의 개념
+# DOM의 개념
 문서 객체 모델(DOM)이란?
 문서 객체 모델(DOM, Document Object Model)은 XML이나 HTML 문서에 접근하기 위한 일종의 인터페이스입니다.
 
@@ -351,13 +352,14 @@ Document- html - body - p - text
             I           I - text
             I - - head - title - text
             
-배열 객체 메소드
+# 배열 객체 메소드
+
 Array 객체가 갖고 있는 메소드들에 대해 알아봅니다.
 함수들을 이용하여 배열을 효과적으로 사용할 수 있습니다.
  
 
 
-내장 메소드들
+## 내장 메소드들
 concat()
 인자로 주어진 배열이나 값들을 기존 배열에 합쳐서 새 배열을 반환합니다.
  

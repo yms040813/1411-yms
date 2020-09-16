@@ -6,8 +6,7 @@ https://yms040813.github.io/1411-yms/
 3. bgproperties :배경 이미지 배치 방법
 4. text : 링크가 아닌 일반 문자열에 사용되는 색상
 5. link : 링크된 글자에 사용될 색상
-6. 
-7. scroll: 스크롤 바 표시 여부
+6. scroll: 스크롤 바 표시 여부
 
 # (내장)style 시트
 

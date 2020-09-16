@@ -1,4 +1,6 @@
-- <body>의 속성
+https://yms040813.github.io/1411-yms/
+
+- body의 속성
 1. bgcolor :페이지의 배경색상
 2. background : 배경에 깔리는 이미지
 3. bgproperties :배경 이미지 배치 방법
